@@ -1,0 +1,10 @@
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.Resources.resources
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.vbproj.GenerateResource.cache
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.vbproj.CoreCompileInputs.cache
+D:\IBERCACAO\Entorno3D\Entorno3D\bin\Debug\Entorno3D.exe.config
+D:\IBERCACAO\Entorno3D\Entorno3D\bin\Debug\Entorno3D.exe
+D:\IBERCACAO\Entorno3D\Entorno3D\bin\Debug\Entorno3D.pdb
+D:\IBERCACAO\Entorno3D\Entorno3D\bin\Debug\Entorno3D.xml
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.exe
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.xml
+D:\IBERCACAO\Entorno3D\Entorno3D\obj\Debug\Entorno3D.pdb

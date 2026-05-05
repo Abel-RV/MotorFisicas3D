@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Entorno3D
+</name>
+</assembly>
+<members>
+<member name="T:Entorno3D.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Entorno3D.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Entorno3D.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Entorno3D.clVentilador.animar">
+ <summary>
+ Metodo que se encarga de animar las aspas del ventilador girando
+ </summary>
+</member>
+<member name="M:Entorno3D.clVentilador.CrearCaja(System.Double,System.Double,System.Double,System.Windows.Media.Color)">
+ <summary>
+ Funcion que crea el cuerpo del ventidador
+ </summary>
+ <param name="ancho">El ancho de la base</param>
+ <param name="alto">El alto de la base</param>
+ <param name="prof">La profundidad de la base</param>
+ <param name="col">Color de la base</param>
+ <returns>Retorna el modelo creado</returns>
+ 
+</member>
+<member name="M:Entorno3D.clVentilador.AddCara(System.Windows.Media.Media3D.MeshGeometry3D,System.Windows.Media.Media3D.Point3D,System.Windows.Media.Media3D.Point3D,System.Windows.Media.Media3D.Point3D,System.Windows.Media.Media3D.Point3D)">
+ <summary>
+ Función que se encarga de crear las caras de la base
+ </summary>
+ <param name="mesh">La malla de la base</param>
+ <param name="p1">Punto 1 de la base</param>
+ <param name="p2">Punto 2 de la base</param>
+ <param name="p3">Punto 3 de la base</param>
+ <param name="p4">Punto 4 de la base</param>
+</member>
+</members>
+</doc>
